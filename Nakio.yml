@@ -947,6 +947,8 @@ proxy-groups:
 
 
 rules:
+ - DOMAIN,dl.google.com,🌀 负载均衡
+ - DOMAIN-SUFFIX,dl.google.com,🌀 负载均衡
  - DOMAIN-SUFFIX,yaohuo.me,🌀 负载均衡
  - DOMAIN-SUFFIX,parsec.app,DIRECT
  - DOMAIN-SUFFIX,time.is,DIRECT
@@ -983,7 +985,6 @@ rules:
  - DOMAIN-SUFFIX,zte.home,🎯 全球直连
  - DOMAIN-SUFFIX,ol.epicgames.com,🎯 全球直连
  - DOMAIN-SUFFIX,dizhensubao.getui.com,🎯 全球直连
- - DOMAIN,dl.google.com,🎯 全球直连
  - DOMAIN-SUFFIX,googletraveladservices.com,🎯 全球直连
  - DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net,🎯 全球直连
  - DOMAIN,origin-a.akamaihd.net,🎯 全球直连
@@ -21194,7 +21195,6 @@ rules:
  - DOMAIN-SUFFIX,clickserve.dartsearch.net,🎯 全球直连
  - DOMAIN-SUFFIX,clientservices.googleapis.com,🎯 全球直连
  - DOMAIN-SUFFIX,crl.pki.goog,🎯 全球直连
- - DOMAIN-SUFFIX,dl.google.com,🎯 全球直连
  - DOMAIN-SUFFIX,dl.l.google.com,🎯 全球直连
  - DOMAIN-SUFFIX,fonts.googleapis.com,🎯 全球直连
  - DOMAIN-SUFFIX,fonts.gstatic.com,🎯 全球直连
