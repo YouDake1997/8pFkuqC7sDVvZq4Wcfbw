@@ -1258,6 +1258,7 @@ proxy-groups:
       - 香港Az-优化2
       - 香港Az-优化3
 rules:
+  - DOMAIN-SUFFIX,bing.com,DIRECT
   - DOMAIN-SUFFIX,yaohuo.me,魔戒.net
   - DOMAIN-SUFFIX,parsec.app,DIRECT
   - DOMAIN-SUFFIX,time.is,DIRECT

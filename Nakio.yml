@@ -947,6 +947,7 @@ proxy-groups:
 
 
 rules:
+ - DOMAIN-SUFFIX,bing.com,DIRECT
  - DOMAIN,dl.google.com,🌀 负载均衡
  - DOMAIN-SUFFIX,dl.google.com,🌀 负载均衡
  - DOMAIN-SUFFIX,yaohuo.me,🌀 负载均衡
