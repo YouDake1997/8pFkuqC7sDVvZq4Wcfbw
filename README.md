@@ -2,7 +2,7 @@
 
 > SSR_Rules
 >
-> https://sub.xeton.dev/sub?target=clash&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FYouDake1997%2F8pFkuqC7sDVvZq4Wcfbw%2Fmain%2Fssconf.ini&filename=ssrRules&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false&new_name=true&url=rules
+> https://sub.xeton.dev/sub?target=clash&insert=false&config=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYouDake1997%2F8pFkuqC7sDVvZq4Wcfbw%40main%2Fssconf.ini&filename=ssrRules&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false&new_name=true&url=rules
 
 
 
